@@ -1,1 +1,13 @@
-# Recupera-o-1
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meu Projeto de Matematica II</title>
+</head>
+<body>
+<h1>Oque é linguagem de programação?</h1>
+<p>Uma linguagem de programação é um conjunto de regras e instruções que permite aos programadores comunicarem-se com computadores, criando programas que realizam tarefas específicas. É como um idioma artificial, onde o código escrito é traduzido para que o computador entenda e execute as ações desejadas. </p>
+</body><img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Funiversidadedatecnologia.com.br%2Fo-que-e-linguagem-de-programacao%2F&psig=AOvVaw2WvmRBKAtuySD6XC-aGdJR&ust=1755095507121000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKD_r7W-hY8DFQAAAAAdAAAAABAE alt=Essa é uma imagem que demonstra algumas das linguagens de programação width="400">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yT22ylhonfs?si=77V9IOQUvRlGWgZ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</html>
